@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Full Stack Engineer who loves digging into the internals. I build high-performance web applications using modern frameworks, but I'm equally at home managing memory and writing system-level code.
 
-🔭 I’m currently working on **building scalable applications at Zone01 Oujda**<br>🌱 I’m currently learning **Compiler Design and DBMS**<br>💬 Ask me about **why I love Svelte, how Spring Boot compares to Go, or the nuances of memory management.**<br>
+🔭 I’m currently working on **building scalable applications at Zone01 Oujda**<br>🌱 I’m currently learning **Compiler Design and DBMS**<br>
 
 
 ## 🌐 Socials:
